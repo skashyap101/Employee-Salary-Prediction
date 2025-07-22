@@ -63,6 +63,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
  
 Some Screenshots
+
 <img width="490" height="379" alt="image" src="https://github.com/user-attachments/assets/e5705a1a-fba1-444c-abb9-182a48db5ede" />
 <img width="703" height="649" alt="image" src="https://github.com/user-attachments/assets/9a543bca-8585-4aba-94f1-7f0ecf951eb7" />
 <img width="715" height="593" alt="image" src="https://github.com/user-attachments/assets/fa9e793f-8ba4-40c5-baad-2ad7a6462528" />
